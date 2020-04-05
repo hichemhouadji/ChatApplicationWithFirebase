@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085490262265",
+    "firebase_url": "https://chatappwithfirbase-cefe1.firebaseio.com",
+    "project_id": "chatappwithfirbase-cefe1",
+    "storage_bucket": "chatappwithfirbase-cefe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085490262265:android:14ae2f77ad50e216613228",
+        "android_client_info": {
+          "package_name": "com.example.chataplicationwithfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085490262265-cj6714mj6ehi65rvidec8so8qamnlf3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFj9_fjeTWtaeDAyt1gz70pEjWHccrKCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085490262265-cj6714mj6ehi65rvidec8so8qamnlf3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
